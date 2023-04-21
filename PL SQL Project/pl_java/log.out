@@ -1,0 +1,43 @@
+
+[DEBUG] 2022-11-21 12:45:52,497 pl_java.Reader_xls - Creating Sql Table
+[DEBUG] 2022-11-21 12:45:52,499 pl_java.Reader_xls - pl_java.Reader_xls@396f6598
+[DEBUG] 2022-11-21 12:49:21,623 pl_java.Reader_xls - Creating Sql Tables
+[DEBUG] 2022-11-21 12:49:21,626 pl_java.Reader_xls - pl_java.Reader_xls@396f6598
+[ERROR] 2022-11-21 12:49:21,627 pl_java.Reader_xls - C:\Users\aitma\Desktop\Book1_200.xls (Le fichier spécifié est introuvable)
+java.io.FileNotFoundException: C:\Users\aitma\Desktop\Book1_200.xls (Le fichier spécifié est introuvable)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at pl_java.Reader_xls.sheet_obj(Reader_xls.java:48)
+	at pl_java.MOD_ELEM_ID.main(MOD_ELEM_ID.java:25)
+[DEBUG] 2022-11-21 12:50:59,784 pl_java.Reader_xls - Creating Sql Tables
+[DEBUG] 2022-11-21 12:50:59,786 pl_java.Reader_xls - pl_java.Reader_xls@396f6598
+[DEBUG] 2022-11-21 12:51:24,707 pl_java.Reader_xls - Creating Sql Tables
+[DEBUG] 2022-11-21 12:51:24,709 pl_java.Reader_xls - pl_java.Reader_xls@396f6598
+[ERROR] 2022-11-21 12:51:24,711 pl_java.Reader_xls - C:\Users\aitma\Desktop\Book1_2007.ls (Le fichier spécifié est introuvable)
+java.io.FileNotFoundException: C:\Users\aitma\Desktop\Book1_2007.ls (Le fichier spécifié est introuvable)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at pl_java.Reader_xls.sheet_obj(Reader_xls.java:48)
+	at pl_java.main.main(main.java:26)
+[DEBUG] 2022-11-21 13:14:32,833 pl_java.Reader_xls - Creating Sql Tables
+[DEBUG] 2022-11-21 13:14:32,835 pl_java.Reader_xls - pl_java.Reader_xls@396f6598
+[ERROR] 2022-11-21 13:14:32,836 pl_java.Reader_xls - C:\Users\aitma\Desktop\Book1_207.ls (Le fichier spécifié est introuvable)
+java.io.FileNotFoundException: C:\Users\aitma\Desktop\Book1_207.ls (Le fichier spécifié est introuvable)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at pl_java.Reader_xls.sheet_obj(Reader_xls.java:48)
+	at pl_java.main.main(main.java:27)
+[DEBUG] 2022-11-29 23:30:14,783 pl_java.Reader_xls - Creating Sql Tables
+[DEBUG] 2022-11-29 23:30:14,786 pl_java.Reader_xls - pl_java.Reader_xls@27a5f880
+[ERROR] 2022-11-29 23:30:14,788 pl_java.Reader_xls - C:\Users\aitma\Desktop\Book1_207.ls (Le fichier spécifié est introuvable)
+java.io.FileNotFoundException: C:\Users\aitma\Desktop\Book1_207.ls (Le fichier spécifié est introuvable)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at pl_java.Reader_xls.sheet_obj(Reader_xls.java:48)
+	at pl_java.main.main(main.java:33)
+[DEBUG] 2022-11-29 23:31:42,097 pl_java.Reader_xls - Creating Sql Tables
+[DEBUG] 2022-11-29 23:31:42,099 pl_java.Reader_xls - pl_java.Reader_xls@27a5f880

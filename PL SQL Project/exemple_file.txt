@@ -1,0 +1,162 @@
+---1ére Année
+insert into Mod_Elem_id VALUES ('HIGEE104','ENH','AN' ,'','VET_ELEM_NOM','VET_ELEM_NOM','','23-JUL-2014')
+--S1
+insert into Mod_Elem_id VALUES ('HIGEE1004','ENH','SM01','S1','semestre1','semestre1'','23-jul-2014')
+insert into Mod_Elem_id VALUES ('HIGEE1104','ENH','MOD1','S1','mathemathique','mathemathique')
+insert into Mod_Elem_id VALUES ('HIGEE1204','ENH','MOD2','S1','svt','svt')
+insert into Mod_Elem_id VALUES ('HIGEE1304','ENH','MOD3','S1','russian / cuba','russian / cuba')
+insert into Mod_Elem_id VALUES ('HIGEE1314','ENH','ELEM','S1','russian','russian')
+
+
+insert into Mod_Elem_id VALUES ('HIGEE1324','ENH','ELEM','S1','cuba','cuba')
+
+
+--S2
+insert into Mod_Elem_id VALUES ('HIGEE2004','ENH','SM02','S2','semestre2','semestre2'','23-jul-2014')
+insert into Mod_Elem_id VALUES ('HIGEE2104','ENH','MOD1','S2','totti','totti')
+insert into Mod_Elem_id VALUES ('HIGEE2204','ENH','MOD2','S2','long / ioln','long / ioln')
+insert into Mod_Elem_id VALUES ('HIGEE2214','ENH','ELEM','S2','long','long')
+
+
+insert into Mod_Elem_id VALUES ('HIGEE2224','ENH','ELEM','S2','ioln','ioln')
+
+
+---2ére Année
+insert into Mod_Elem_id VALUES ('HIGEE304','ENH','AN' ,'','VET_ELEM_NOM','VET_ELEM_NOM','','23-JUL-2014')
+--S3
+insert into Mod_Elem_id VALUES ('HIGEE3004','ENH','SM03','S3','semestre3','semestre3'','23-jul-2014')
+insert into Mod_Elem_id VALUES ('HIGEE3104','ENH','MOD1','S3','Systéms D\'information et Bases  de Données','Systéms D\'information et Bases  de Données')
+--S4
+insert into Mod_Elem_id VALUES ('HIGEE4004','ENH','SM04','S4','semestre4','semestre4'','23-jul-2014')
+insert into Mod_Elem_id VALUES ('HIGEE4104','ENH','MOD1','S4','Architecture des Ordinnateurs et Systemes d\'exploitation','Architecture des Ordinnateurs et Systemes d\'exploitation')
+---3ére Année
+insert into Mod_Elem_id VALUES ('HIGEE504','ENH','AN' ,'','VET_ELEM_NOM','VET_ELEM_NOM','','23-JUL-2014')
+--S5
+insert into Mod_Elem_id VALUES ('HIGEE5004','ENH','SM05','S5','semestre5','semestre5'','23-jul-2014')
+insert into Mod_Elem_id VALUES ('HIGEE5104','ENH','MOD1','S5','Communication Profesionnelle et Soft Skills-1','Communication Profesionnelle et Soft Skills-1')
+--S6
+insert into Mod_Elem_id VALUES ('HIGEE6004','ENH','SM06','S6','semestre6','semestre6'','23-jul-2014')
+insert into Mod_Elem_id VALUES ('HIGEE6104','ENH','MOD1','S6','Recherche d\'Information (RI)','Recherche d\'Information (RI)')
+insert into Mod_Elem_id VALUES ('HIGEE6204','ENH','MOD2','S6','okrania / belgium','okrania / belgium')
+insert into Mod_Elem_id VALUES ('HIGEE6214','ENH','ELEM','S6','okrania','okrania')
+
+
+insert into Mod_Elem_id VALUES ('HIGEE6224','ENH','ELEM','S6','belgium','belgium')
+
+
+insert into List_Mod_Elm_Id VALUES('HIGEE14' ,'VET 1année ID','VET 1année ID')
+insert into List_Mod_Elm_Id VALUES('HIGEE104','VET_ELEM_NOM','VET_ELEM_NOM')
+insert into List_Mod_Elm_Id VALUES('HIGEE1004','semestre1','semestre1')
+insert into List_Mod_Elm_Id VALUES('HIGEE1004,'mathemathique','mathemathique')
+
+
+insert into List_Mod_Elm_Id VALUES('HIGEE1004,'svt','svt')
+
+
+insert into List_Mod_Elm_Id VALUES('HIGEE1004,'russian / cuba','russian / cuba')
+
+
+insert into List_Mod_Elm_Id VALUES('HIGEE2004','semestre2','semestre2')
+insert into List_Mod_Elm_Id VALUES('HIGEE2004,'totti','totti')
+
+
+insert into List_Mod_Elm_Id VALUES('HIGEE2004,'long / ioln','long / ioln')
+
+
+insert into List_Mod_Elm_Id VALUES('HIGEE24' ,'VET 2année ID','VET 2année ID')
+insert into List_Mod_Elm_Id VALUES('HIGEE204','VET_ELEM_NOM','VET_ELEM_NOM')
+insert into List_Mod_Elm_Id VALUES('HIGEE3004','semestre3','semestre3')
+insert into List_Mod_Elm_Id VALUES('HIGEE3004,'Systéms D\'information et Bases  de Données','Systéms D\'information et Bases  de Données')
+
+
+insert into List_Mod_Elm_Id VALUES('HIGEE4004','semestre4','semestre4')
+insert into List_Mod_Elm_Id VALUES('HIGEE4004,'Architecture des Ordinnateurs et Systemes d\'exploitation','Architecture des Ordinnateurs et Systemes d\'exploitation')
+
+
+insert into List_Mod_Elm_Id VALUES('HIGEE34' ,'VET 3année ID','VET 3année ID')
+insert into List_Mod_Elm_Id VALUES('HIGEE304','VET_ELEM_NOM','VET_ELEM_NOM')
+insert into List_Mod_Elm_Id VALUES('HIGEE5004','semestre5','semestre5')
+insert into List_Mod_Elm_Id VALUES('HIGEE5004,'Communication Profesionnelle et Soft Skills-1','Communication Profesionnelle et Soft Skills-1')
+
+
+insert into List_Mod_Elm_Id VALUES('HIGEE6004','semestre6','semestre6')
+insert into List_Mod_Elm_Id VALUES('HIGEE6004,'Recherche d\'Information (RI)','Recherche d\'Information (RI)')
+
+
+insert into List_Mod_Elm_Id VALUES('HIGEE6004,'okrania / belgium','okrania / belgium')
+
+
+insert into Trait_Notes_Id values ('HIGEE104','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE1004','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE1104','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE1204','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE1304','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE1314','HTN','T')
+
+
+insert into Trait_Notes_Id values ('HIGEE1324','HTN','T')
+
+
+insert into Trait_Notes_Id values ('HIGEE2004','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE2104','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE2204','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE2214','HTN','T')
+
+
+insert into Trait_Notes_Id values ('HIGEE2224','HTN','T')
+
+
+insert into Trait_Notes_Id values ('HIGEE204','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE3004','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE3104','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE4004','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE4104','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE304','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE5004','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE5104','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE6004','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE6104','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE6204','HTN','T')
+insert into Trait_Notes_Id values ('HIGEE6214','HTN','T')
+
+
+insert into Trait_Notes_Id values ('HIGEE6224','HTN','T')
+
+
+insert into Inscr_Pedag_Id values ('ENH','HIGEE104')
+insert into Inscr_Pedag_Id values ('ENH','HIGEE1004')
+insert into Inscr_Pedag_Id VALUES('ENH','HIGEE1104)
+insert into Inscr_Pedag_Id VALUES('ENH','HIGEE1204)
+insert into Inscr_Pedag_Id VALUES('ENH','HIGEE1304)
+insert into Inscr_Pedag_Id values ('ENH','HIGEE1314')
+
+
+insert into Inscr_Pedag_Id values ('ENH','HIGEE1324')
+
+
+insert into Inscr_Pedag_Id values ('ENH','HIGEE2004')
+insert into Inscr_Pedag_Id VALUES('ENH','HIGEE2104)
+insert into Inscr_Pedag_Id VALUES('ENH','HIGEE2204)
+insert into Inscr_Pedag_Id values ('ENH','HIGEE2214')
+
+
+insert into Inscr_Pedag_Id values ('ENH','HIGEE2224')
+
+
+insert into Inscr_Pedag_Id values ('ENH','HIGEE204')
+insert into Inscr_Pedag_Id values ('ENH','HIGEE3004')
+insert into Inscr_Pedag_Id VALUES('ENH','HIGEE3104)
+insert into Inscr_Pedag_Id values ('ENH','HIGEE4004')
+insert into Inscr_Pedag_Id VALUES('ENH','HIGEE4104)
+insert into Inscr_Pedag_Id values ('ENH','HIGEE304')
+insert into Inscr_Pedag_Id values ('ENH','HIGEE5004')
+insert into Inscr_Pedag_Id VALUES('ENH','HIGEE5104)
+insert into Inscr_Pedag_Id values ('ENH','HIGEE6004')
+insert into Inscr_Pedag_Id VALUES('ENH','HIGEE6104)
+insert into Inscr_Pedag_Id VALUES('ENH','HIGEE6204)
+insert into Inscr_Pedag_Id values ('ENH','HIGEE6214')
+
+
+insert into Inscr_Pedag_Id values ('ENH','HIGEE6224')
+
+
